@@ -1,0 +1,28 @@
+.bg-container {
+  background-color: #000000;
+  height: 100vh;
+  padding: 40px;
+}
+.slider-container {
+  padding: 40px;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/planets-app/planets-bg-img.png');
+  background-size: cover;
+}
+.heading {
+  color: #05acff;
+  text-align: center;
+}
+/* 
+.bg-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/planets-app/planets-bg-img.png');
+  height: 100vh;
+  background-size: cover;
+}
+.heading {
+  color: #05acff;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 30px;
+  text-align: center;
+  margin: 20px;
+} */
